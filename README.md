@@ -1,2 +1,3 @@
 # hello-word
-my first github repository
+My first github repository
+It is very intresting to learn something from github
